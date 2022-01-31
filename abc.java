@@ -4,5 +4,6 @@ public class a{
 }
 public void register(){
 		Syste.out.println("register through master");
+		System.out.println("Register");
 }	
 }
